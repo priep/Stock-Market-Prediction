@@ -46,4 +46,5 @@ The project requires the following Python libraries:
 5. Make Predictions
 
 **Result**
+
 The model will output whether the next day’s S&P 500 price will increase or decrease.
